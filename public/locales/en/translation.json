@@ -1,0 +1,114 @@
+{
+  "header": {
+    "title": "Electric Vehicle Sales Predictor",
+    "launch_dashboard": "Launch Dashboard"
+  },
+  "hero": {
+    "ai_powered": "AI-Powered Prediction",
+    "heading_part1": "Predict EV Sales with",
+    "heading_part2": "Machine Learning",
+    "subheading": "Leverage advanced ML models to forecast Electric Vehicle sales, analyze market trends, and make data-driven decisions for Smart Cities.",
+    "explore_dashboard": "Dashboard",
+    "view_dataset": "View Dataset",
+    "data_points": "Data Points",
+    "ml_models": "ML Models",
+    "cities": "Cities"
+  },
+  "feature": {
+    "title": "Features",
+    "model_title": "Diverse ML Models",
+    "model_desc": "Utilize ARIMA, LSTM, Random Forest, and XGBoost for accurate forecasting.",
+    "time_series_title": "Time Series Analysis",
+    "time_series_desc": "Visualize sales trends over time with interactive charts and forecasting.",
+    "market_insight_title": "Market Insights",
+    "market_insight_desc": "Understand market share, price trends, and infrastructure impact.",
+    "dataset_title": "Comprehensive Dataset",
+    "dataset_desc": "17 features including sales, price, infrastructure, and economic indicators.",
+    "city_compare_title": "City Comparison",
+    "city_compare_desc": "Compare EV adoption across multiple Smart Cities in Thailand.",
+    "realtime_title": "Real-time Analysis",
+    "realtime_desc": "Get instant insights with a responsive dashboard and interactive filters."
+  },
+  "cta": {
+    "title": "Ready to Start Predicting?",
+    "sub_title": "Access the full analytics dashboard and start exploring EV sales data with powerful ML models.",
+    "button": "Access Dashboard Now"
+  },
+  "footer": {
+    "text": "Powered by Machine Learning • Built for Smart Cities"
+  },
+  "dashboard": {
+    "title": "EV Sales Predictor",
+    "subtitle": "ML-Powered Analytics Platform",
+    "button_upload": "Upload CSV",
+    "button_settings": "Settings",
+    
+    "metric_total_sales_title": "Total EV Sales",
+    "metric_total_sales_desc": "All cities and all time",
+    "metric_market_share_title": "Avg Market Share",
+    "metric_market_share_desc": "EV Adoption Rate",
+    "metric_charging_points_title": "Avg Charging Points",
+    "metric_charging_points_desc": "Public Charging Infrastructure",
+    
+    "tab_dashboard": "Dashboard",
+    "tab_predict": "Prediction",
+    "tab_analysis": "Analysis",
+    
+    "chart_sales_title": "EV Sales Trend",
+    "chart_sales_desc": "Monthly sales volume over time",
+    "chart_comparison_title": "City Comparison",
+    "chart_comparison_desc": "Total EV sales by city for the selected year",
+    "chart_select_city_placeholder": "Select City",
+    "chart_select_year_placeholder": "Select Year",
+    "chart_legend_sales": "EV Sales",
+    "chart_legend_total_sales": "Total Sales",
+    
+    "predict_config_title": "Model Configuration",
+    "predict_config_desc": "Select ML model and define parameters",
+    "predict_label_model": "ML Model",
+    "predict_label_target": "Target Variable",
+    "predict_target_sales": "EV Sales",
+    "predict_target_market_share": "Market Share",
+    "predict_target_best_model": "Best Model",
+    "predict_button_train": "Train Model",
+    "predict_note": "Note: Full ML training requires integration with a Python Backend",
+    "predict_results_title": "Prediction Results",
+    "predict_results_desc": "Model performance and prediction metrics",
+    
+    "analysis_corr_title": "Market Share and Drivers",
+    "analysis_corr_desc": "Comparing EV market share, EV price, and charging points monthly",
+    "analysis_y_market_share": "Market Share (%)",
+    "analysis_y_price_points": "Price / Charging Points",
+    "analysis_legend_market_share": "EV Market Share",
+    "analysis_legend_avg_price": "Avg EV Price",
+    "analysis_legend_charging_points": "Public Charging Points",
+    "analysis_legend_gas_price": "Avg Gasoline Price",
+    
+    "analysis_stats_title": "Statistical Analysis",
+    "analysis_stats_desc": "Key insights from the dataset",
+    "stats_summary_title": "Dataset Summary",
+    "stats_total_records": "Total Records",
+    "stats_cities_covered": "Cities Covered",
+    "stats_time_range": "Time Range",
+    "stats_features": "Features",
+    "stats_top_city_title": "Top Performing City",
+    "stats_sales_unit": "Total EV Sales",
+    
+    "loading": "Loading data...",
+    "toast_success_title": "Data Loaded Successfully",
+    "toast_success_desc": "Loaded {{count}} records from the dataset",
+    "toast_error_title": "Data Loading Error",
+    "toast_error_desc": "Failed to load CSV file",
+
+    "analysis_driver_title": "Driver Impact Analysis",
+    "analysis_driver_desc": "Feature importance and correlation to the target variable.",
+    "analysis_macro_title": "Sales vs. Macro Indicator",
+    "analysis_macro_desc": "Comparing EV Sales volume with selected economic variables.",
+    
+    "chart_forecast_title": "Future Sales Forecast",
+    "chart_forecast_desc": "Model prediction with confidence interval.",
+
+    "chart_sales_mix_title": "EV Type Sales Mix",
+    "chart_sales_mix_desc": "Monthly volume comparison of BEV, PHEV, and HEV."
+  }
+}

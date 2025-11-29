@@ -1,0 +1,115 @@
+{
+  "header": {
+    "title": "Electric Vehicle Sales Predictor",
+    "launch_dashboard": "เข้าสู่แดชบอร์ด"
+  },
+  "hero": {
+    "ai_powered": "การคาดการณ์ด้วย AI",
+    "heading_part1": "คาดการณ์ยอดขายรถ EV ด้วย",
+    "heading_part2": "Machine Learning",
+    "subheading": "ใช้ประโยชน์จากโมเดล ML ขั้นสูงเพื่อพยากรณ์ยอดขายรถยนต์ไฟฟ้า วิเคราะห์แนวโน้มตลาด และตัดสินใจบนพื้นฐานข้อมูลสำหรับเมืองอัจฉริยะ",
+    "explore_dashboard": "Dashboard",
+    "view_dataset": "ดูชุดข้อมูล",
+    "data_points": "จุดข้อมูล",
+    "ml_models": "โมเดล ML",
+    "cities": "เมือง"
+  },
+  "feature": {
+    "title": "Features",
+    "sub_title": "ทุกสิ่งที่จำเป็นสำหรับการวิเคราะห์และคาดการณ์แนวโน้มตลาดรถ EV",
+    "model_title": "หลากหลายโมเดล ML",
+    "model_desc": "เลือกใช้ ARIMA, LSTM, Random Forest, และ XGBoost เพื่อการคาดการณ์ที่แม่นยำ",
+    "time_series_title": "การวิเคราะห์ข้อมูลเชิงเวลา",
+    "time_series_desc": "แสดงภาพแนวโน้มยอดขายในช่วงเวลาด้วยแผนภูมิแบบโต้ตอบและการพยากรณ์",
+    "market_insight_title": "ข้อมูลเชิงลึกตลาด",
+    "market_insight_desc": "ทำความเข้าใจส่วนแบ่งตลาด แนวโน้มราคา และผลกระทบจากโครงสร้างพื้นฐาน",
+    "dataset_title": "ชุดข้อมูลที่สมบูรณ์",
+    "dataset_desc": "17 ฟีเจอร์ รวมถึงยอดขาย ราคา โครงสร้างพื้นฐาน และตัวชี้วัดทางเศรษฐกิจ",
+    "city_compare_title": "การเปรียบเทียบเมือง",
+    "city_compare_desc": "เปรียบเทียบการยอมรับรถ EV ในเมืองอัจฉริยะหลายแห่งของประเทศไทย",
+    "realtime_title": "การวิเคราะห์แบบเรียลไทม์",
+    "realtime_desc": "รับข้อมูลเชิงลึกทันทีด้วยแดชบอร์ดที่ตอบสนองและตัวกรองแบบโต้ตอบ"
+  },
+  "cta": {
+    "title": "พร้อมที่จะเริ่มต้นการคาดการณ์แล้วหรือยัง?",
+    "sub_title": "เข้าถึงแดชบอร์ดการวิเคราะห์เต็มรูปแบบและเริ่มสำรวจข้อมูลยอดขายรถ EV ด้วยโมเดล ML อันทรงพลัง",
+    "button": "เข้าสู่แดชบอร์ดเดี๋ยวนี้"
+  },
+  "footer": {
+    "text": "ขับเคลื่อนด้วย Machine Learning • สร้างขึ้นเพื่อเมืองอัจฉริยะ"
+  },
+  "dashboard": {
+    "title": "EV Sales Predictor", 
+    "subtitle": "แพลตฟอร์มวิเคราะห์ที่ขับเคลื่อนด้วย ML", 
+    "button_upload": "อัปโหลด CSV",
+    "button_settings": "ตั้งค่า",
+    
+    "metric_total_sales_title": "ยอดขาย EV รวม",
+    "metric_total_sales_desc": "ทุกเมืองและทุกช่วงเวลา",
+    "metric_market_share_title": "ส่วนแบ่งตลาดเฉลี่ย",
+    "metric_market_share_desc": "อัตราการใช้งาน EV",
+    "metric_charging_points_title": "จุดชาร์จเฉลี่ย",
+    "metric_charging_points_desc": "โครงสร้างพื้นฐานจุดชาร์จสาธารณะ",
+    
+    "tab_dashboard": "แดชบอร์ด",
+    "tab_predict": "ทำนายการเติบโต",
+    "tab_analysis": "วิเคราะห์",
+    
+    "chart_sales_title": "แนวโน้มยอดขาย EV",
+    "chart_sales_desc": "ปริมาณการขายรายเดือนตามช่วงเวลา",
+    "chart_comparison_title": "เปรียบเทียบเมือง",
+    "chart_comparison_desc": "ยอดขาย EV รวมตามเมืองสำหรับปีที่เลือก",
+    "chart_select_city_placeholder": "เลือกเมือง",
+    "chart_select_year_placeholder": "เลือกปี",
+    "chart_legend_sales": "ยอดขาย EV",
+    "chart_legend_total_sales": "ยอดขายรวม",
+    
+    "predict_config_title": "การกำหนดค่าโมเดล",
+    "predict_config_desc": "เลือกรุ่น ML และกำหนดพารามิเตอร์",
+    "predict_label_model": "โมเดล ML",
+    "predict_label_target": "ตัวแปรเป้าหมาย",
+    "predict_target_sales": "ยอดขาย EV",
+    "predict_target_market_share": "ส่วนแบ่งตลาด",
+    "predict_target_best_model": "โมเดลที่ดีที่สุด",
+    "predict_button_train": "ฝึกฝนโมเดล",
+    "predict_note": "หมายเหตุ: การฝึกฝน ML เต็มรูปแบบต้องใช้การรวมกับ Python Backend",
+    "predict_results_title": "ผลลัพธ์การทำนาย",
+    "predict_results_desc": "เมตริกประสิทธิภาพและการทำนายของโมเดล",
+    
+    "analysis_corr_title": "ส่วนแบ่งตลาดและปัจจัยขับเคลื่อน",
+    "analysis_corr_desc": "เปรียบเทียบส่วนแบ่งตลาด EV, ราคา EV เฉลี่ย, และจำนวนจุดชาร์จสาธารณะรายเดือน", 
+    "analysis_y_market_share": "ส่วนแบ่งตลาด (%)",
+    "analysis_y_price_points": "ราคา EV / จุดชาร์จ", 
+    "analysis_legend_market_share": "ส่วนแบ่งตลาด EV",
+    "analysis_legend_avg_price": "ราคา EV เฉลี่ย",
+    "analysis_legend_charging_points": "จุดชาร์จสาธารณะ",
+    "analysis_legend_gas_price": "ราคาน้ำมันเฉลี่ย",
+    
+    "analysis_stats_title": "การวิเคราะห์ทางสถิติ",
+    "analysis_stats_desc": "ข้อมูลเชิงลึกที่สำคัญจากชุดข้อมูล",
+    "stats_summary_title": "สรุปชุดข้อมูล",
+    "stats_total_records": "จำนวนรายการรวม",
+    "stats_cities_covered": "จำนวนเมืองที่ครอบคลุม",
+    "stats_time_range": "ช่วงเวลา",
+    "stats_features": "คุณลักษณะ",
+    "stats_top_city_title": "เมืองที่มีผลการดำเนินงานสูงสุด", 
+    "stats_sales_unit": "ยอดขาย EV รวม",
+    
+    "loading": "กำลังโหลดข้อมูล...",
+    "toast_success_title": "โหลดข้อมูลสำเร็จ",
+    "toast_success_desc": "โหลดข้อมูล {{count}} รายการจากชุดข้อมูล",
+    "toast_error_title": "ข้อผิดพลาดในการโหลดข้อมูล",
+    "toast_error_desc": "ไม่สามารถโหลดไฟล์ CSV ได้",
+
+    "analysis_driver_title": "การวิเคราะห์ปัจจัยขับเคลื่อน",
+    "analysis_driver_desc": "ความสำคัญของฟีเจอร์และความสัมพันธ์กับตัวแปรเป้าหมาย",
+    "analysis_macro_title": "ยอดขายเทียบกับตัวชี้วัดเศรษฐกิจมหภาค",
+    "analysis_macro_desc": "เปรียบเทียบยอดขาย EV กับตัวแปรทางเศรษฐกิจที่เลือก",
+    
+    "chart_forecast_title": "การคาดการณ์ยอดขายในอนาคต",
+    "chart_forecast_desc": "ผลการทำนายของโมเดลพร้อมช่วงความเชื่อมั่น",
+
+    "chart_sales_mix_title": "สัดส่วนยอดขายตามประเภท EV",
+    "chart_sales_mix_desc": "เปรียบเทียบปริมาณยอดขายรายเดือนของ BEV, PHEV และ HEV"
+  }
+}
